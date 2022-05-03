@@ -16,7 +16,7 @@ I strive for a work environment where I can learn new things, and where the bond
 
 ### Tech Skills ✨
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50"/>] 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="50"/> <img src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" width="50"/> 
 
 ----------------------------------------------------
 
