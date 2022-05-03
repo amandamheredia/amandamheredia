@@ -22,4 +22,4 @@ I strive for a work environment where I can learn new things, and where the bond
 
 ### Puedes encontrarme en 📓 
 
-[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" width="60"/>](https://www.linkedin.com/in/amanda-heredia-091517226/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" width= "50"/>](mailto:amanda.mnzh@gmail.com)
+[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" width="60"/>](https://www.linkedin.com/in/amanda-heredia-091517226/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" width= "40"/>](mailto:amanda.mnzh@gmail.com)
