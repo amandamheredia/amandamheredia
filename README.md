@@ -4,7 +4,7 @@
 
 Busco desenvolverme en un espacio donde pueda seguir aprendiendo y donde la relación con mis compañer@s de equipo sea tan importante como el trabajo que hacemos.
 
--
+----------------------------------------------------
 
 ### Hi there 👋
 
@@ -12,18 +12,14 @@ Busco desenvolverme en un espacio donde pueda seguir aprendiendo y donde la rela
 
 I strive for a work environment where I can learn new things, and where the bond with my colleagues is just as important as the projects we embark on.
 
--
+----------------------------------------------------
 
 ### Tech Skills ✨
 
--
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50"/>] 
+
+----------------------------------------------------
 
 ### Puedes encontrarme en 📓 
 
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" width="60"/>](https://www.linkedin.com/in/amanda-heredia-091517226/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" width= "50"/>](mailto:amanda.mnzh@gmail.com)
-
-
-
-
-
-
