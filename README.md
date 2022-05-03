@@ -20,7 +20,7 @@ I strive for a work environment where I can learn new things, and where the bond
 
 ### Puedes encontrarme en 📓 
 
-[<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="25"/>](https://www.linkedin.com/in/amanda-heredia-091517226/)
+[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" width="30"/>](https://www.linkedin.com/in/amanda-heredia-091517226/)
 
 
 
